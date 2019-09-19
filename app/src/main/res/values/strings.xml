@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mirror Demo</string>
+    <string name="mirror_auth_demo">Mirror Auth Demo</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="edit">Edit</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="location_hint">Brooklyn</string>
+    <string name="location_label">Location:</string>
+    <string name="birthdate_format">YYYY-MM-DD</string>
+    <string name="birthdate_label">Birthdate:</string>
+    <string name="name_hint">Julia Appleseed</string>
+    <string name="name_label">Name:</string>
+    <string name="refresh">Refresh</string>
+    <string name="profile">Profile</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="full_name">Full Name</string>
+</resources>
